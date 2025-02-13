@@ -140,4 +140,44 @@ HTML list :-
 Github :-
 
 - Github is a open-source, version control system where we can store our codes, we can see other developers code & we can build a project by collaboration other peoples.
+
+HTML Form :-
+-------------
+
+- As per our normal form or google form, html also provide a form like structure for to design our web page.
+- The main element of the html form is <form> tag.
+- Inside <form> tag we have 2 important element like:- <label> and <inputs> tags.
+- Some important input types like :-
+    1. <input type="text"> 
+    2. <input type="email"> 
+    3. <input type="password"> 
+    4. <input type="checkbox"> 
+    5. <input type="radio"> 
+    6. <input type="range"> 
+    7. <input type="search"> 
+    8. <input type="button"> 
+    9. <input type="color"> 
+    10. <input type="date"> 
+    11. <input type="time">
+    12. <input type="file"> 
+    13. <input type="image"> 
+    14. <input type="number"> 
+    15. <input type="url"> 
+    16. <input type="tel"> 
+    
+HTML Block level element & inline element :-
+
+1. Block level Element :-
+
+- A block level element always starts with a newline.
+- It takes full width as per the device size.
+- It helps mostly for the designing purpose for design the specific part of a web page.
+- Commonly used block level elements are :-
+    <p>, <div>, <header>, <footer>, <navbar>, <section>, <main>, <table>, <form>, etc..
+
+2. Inline Level Element :-
+
+- It does not start with a new line.
+- It takes space as muchas it necessary.
+- Some important inline elements are <span>, <a> etc,..
     
